@@ -6,6 +6,10 @@
     <variables>
         <primary-color>ruby</primary-color>
     </variables>
+    <shortcuts>
+        <src>keymap.xml</src>
+        <layout name="Windows" display-name="Windows"/>
+    </shortcuts>
     <build-profile instance="utmd">
         <variables>
             <noindex-content>true</noindex-content>

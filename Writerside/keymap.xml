@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap id="my_keymap">
+    <layouts>
+        <layout name="Windows" platform="PC"/>
+    </layouts>
+    <actions>
+        <action id="$conan">
+            <description>Conan Escape Menu</description>
+            <shortcut layout="Windows">ESC</shortcut>
+        </action>
+        <action id="$admin">
+            <description>Sudo Admin Panel</description>
+            <shortcut layout="Windows">Shift+U</shortcut>
+        </action>
+        <action id="$client">
+            <description>Sudo Client Panel</description>
+            <shortcut layout="Windows">Ctrl+Shift+U</shortcut>
+        </action>
+    </actions>
+</keymap>

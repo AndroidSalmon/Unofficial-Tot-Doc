@@ -12,17 +12,18 @@ This article will walk you through the core Admin-side setup of Tot!Sudo. You wi
 
 Make sure that:
 - Tot!Sudo is placed at the bottom of your modlist, above any other Tot mods you have installed.
+- You are on a dedicated server.
 
 ## Accessing the Tot!Sudo Admin Panel
 
 The Admin panel is your go-to dashboard for all admin configuration for Tot!Sudo and any mods that use its framework. 
 
-1. Enable vanilla Admin mode through the standard <shortcut>ESC</shortcut> menu. You will only need this once.
+1. Enable vanilla Admin mode through the standard <shortcut key="$conan"/> menu. You will only need this once.
 
-2. Press <shortcut>Shift+U</shortcut> to open the Tot!Sudo Admin Panel.
+2. Press <shortcut key="$admin"/> to open the Tot!Sudo Admin Panel.
 
 > **Keybinds**
 >
-> <shortcut>Shift+U</shortcut> inconvenient for you? You can also open it via the <shortcut>ESC</shortcut> menu, or change the default keybind via the Sudo Client Panel.
+> <shortcut key="$admin"/> inconvenient for you? You can also open it via the <shortcut key="$conan"/> menu, or change the default keybind via the Sudo Client Panel (<shortcut key="$client"/>).
 >
 {style="tip"}
