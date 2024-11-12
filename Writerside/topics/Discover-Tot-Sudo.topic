@@ -11,10 +11,26 @@
             These topics will help you get started with Sudo.
         </description>
 
-        <!--    Add up to 2 topics that you want to promote. Use the "type" attribute to select an icon.    -->
         <spotlight>
             <a href="First-time-setup.md" type="start" summary="Learn how to setup Tot!Sudo step-by-step.">First Time Setup</a>
+            <a href="Security-practices.md" type="key" summary="Understand how to maintain a secure configuration.">Security practices</a>
         </spotlight>
+
+        <primary>
+            <title>Admin Features</title>
+            <a href="Admin-Panel.md"/>
+            <a href="Backups.md" summary="Backing your data up &amp; restoring it."/>
+            <a href="Nameplates.md"/>
+            <a href="Roles.md" summary="Assigning mod features to your players."/>
+            <a href="GlobVars.md"/>
+            <a href="Configure-Log.md"/>
+        </primary>
+
+        <secondary>
+            <title>Player Features</title>
+            <a href="Client-Panel.md"/>
+            <a href="Keybinds.md" summary="Making your Keybinds yours."/>
+        </secondary>
     </section-starting-page>
 
 </topic>

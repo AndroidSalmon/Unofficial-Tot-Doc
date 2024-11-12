@@ -16,5 +16,9 @@
             <description>Sudo Client Panel</description>
             <shortcut layout="Windows">Ctrl+Shift+U</shortcut>
         </action>
+        <action id="$custom">
+            <description>Custom Panel</description>
+            <shortcut layout="Windows">Shift+B</shortcut>
+        </action>
     </actions>
 </keymap>

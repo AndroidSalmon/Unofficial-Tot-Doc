@@ -8,5 +8,17 @@
 
     <toc-element topic="Discover-Tot-Sudo.topic">
         <toc-element topic="First-time-setup.md"/>
+        <toc-element topic="Security-practices.md"/>
+        <toc-element topic="Compatibility-disclaimer.md"/>
+    </toc-element>
+    <toc-element topic="Admin-Panel.md">
+        <toc-element topic="Backups.md"/>
+        <toc-element topic="Nameplates.md"/>
+        <toc-element topic="Roles.md"/>
+        <toc-element topic="GlobVars.md"/>
+        <toc-element topic="Configure-Log.md"/>
+    </toc-element>
+    <toc-element topic="Client-Panel.md">
+        <toc-element topic="Keybinds.md"/>
     </toc-element>
 </instance-profile>

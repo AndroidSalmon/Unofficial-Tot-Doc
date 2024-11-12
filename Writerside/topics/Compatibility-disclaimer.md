@@ -1,0 +1,3 @@
+# Compatibility disclaimer
+
+Start typing here...
