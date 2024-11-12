@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="3a8efba">
+        <description>Created after removal of "How to" from Unofficial Tot User Guide</description>
+        <accepts>How-to.html</accepts>
+    </rule>
+    <rule id="a8e9da4">
+        <description>Created after removal of "About Unofficial Tot mods documentation" from Unofficial Tot User Guide
+        </description>
+        <accepts>starter-topic.html</accepts>
+    </rule>
+</rules>

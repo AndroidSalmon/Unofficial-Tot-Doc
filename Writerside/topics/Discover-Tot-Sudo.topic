@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Discover Tot!Sudo" id="Discover-Tot-Sudo">
+
+    <section-starting-page>
+        <title>Discover Tot!Sudo</title>
+        <description>
+            These topics will help you get started with Sudo.
+        </description>
+
+        <!--    Add up to 2 topics that you want to promote. Use the "type" attribute to select an icon.    -->
+        <spotlight>
+            <a href="First-time-setup.md" type="start" summary="Learn how to setup Tot!Sudo step-by-step.">First Time Setup</a>
+        </spotlight>
+    </section-starting-page>
+
+</topic>

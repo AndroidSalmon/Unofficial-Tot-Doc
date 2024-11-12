@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="utmd"
+                 name="Unofficial Tot User Guide"
+                 start-page="Discover-Tot-Sudo.topic">
+
+    <toc-element topic="Discover-Tot-Sudo.topic">
+        <toc-element topic="First-time-setup.md"/>
+    </toc-element>
+</instance-profile>
