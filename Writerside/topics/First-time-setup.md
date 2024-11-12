@@ -2,11 +2,7 @@
 
 This article will walk you through the core Admin-side setup of Tot!Sudo. You will learn how to configure your Super Admin Password, your roles, and their permissions.
 
-> **Dedicated servers**
->
-> Tot!Sudo is not developed with Singleplayer or Co-op in mind. It's advised to perform setup on a dedicated server for best results.
->
-{style="warning"}
+<include from="library.md" element-id="warning-singleplayer"/>
 
 ## Before you start
 
