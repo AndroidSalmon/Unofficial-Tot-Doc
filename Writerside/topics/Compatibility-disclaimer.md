@@ -1,3 +1,3 @@
 # Compatibility disclaimer
 
-Start typing here...
+<include from="library.md" element-id="wip"/>

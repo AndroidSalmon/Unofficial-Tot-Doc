@@ -10,3 +10,13 @@
 {style="note"}
 
 </snippet>
+
+<snippet id="wip">
+
+> **Work in progress**
+>
+> This page is still planned or in active progress. Interested in contributing to this page? [Visit the Github.](https://github.com/AndroidSalmon/Unofficial-Tot-Doc)
+>
+{style="tip"}
+
+</snippet>

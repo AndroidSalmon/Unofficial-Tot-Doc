@@ -1,5 +1,7 @@
 # First time setup
 
+<include from="library.md" element-id="wip"/>
+
 This article will walk you through the core Admin-side setup of Tot!Sudo. You will learn how to configure your Super Admin Password, your roles, and their permissions.
 
 <include from="library.md" element-id="warning-singleplayer"/>
