@@ -3,10 +3,10 @@
 
 <snippet id="warning-singleplayer">
 
-> **Singleplayer / Co-op**
+> **A dedicated server is highly recommended**
 >
-> Tot!Sudo is not developed with Singleplayer or Co-op in mind. It's advised to perform setup on a dedicated server for best results.
+> Singleplayer and Co-op are not officially supported by Tot!Sudo or any other Tot mods. To ensure intended behaviour, perform all your testing and setup on a dedicated server.
 >
-{style="warning"}
+{style="note"}
 
 </snippet>
