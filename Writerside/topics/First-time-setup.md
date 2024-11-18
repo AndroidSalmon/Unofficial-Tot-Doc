@@ -73,8 +73,8 @@ For everything else, it's best to configure your roles according to your needs.
 
 Next, we'll be asked to configure the 'Everyone' role with some Permissions.
 
-If you're following along and only have Tot!Sudo installed, we can just save permissions and continue: 
-these permissions are largely intended for administration, and we don't really want everyone to have access to this stuff!
+If you're following along and only have Tot!Sudo installed, we could just save permissions and continue: 
+these permissions are largely intended for administration, and we don't really want everyone to have access to this stuff! But, for the sake of practice, let's add a harmless one.
 
 We'll start configuring our roles when we add a mod that has features more suited for players and administration both.
 
