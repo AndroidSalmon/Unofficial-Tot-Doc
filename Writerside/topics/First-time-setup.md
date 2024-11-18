@@ -71,7 +71,7 @@ For everything else, it's best to configure your roles according to your needs.
 
 ## Configuring the Everyone role
 
-Next, we'll be asked to configure the 'Everyone' role with some Permissions.
+Next, we'll be asked to configure the 'Everyone' role with some Permissions. The 'Everyone' role is a default one that's automatically added to every player. In short, it applies to... everyone!
 
 If you're following along and only have Tot!Sudo installed, we could just save permissions and continue: 
 these permissions are largely intended for administration, and we don't really want everyone to have access to this stuff! But, for the sake of practice, let's add a harmless one.
