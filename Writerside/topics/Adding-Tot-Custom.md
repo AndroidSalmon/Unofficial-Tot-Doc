@@ -1,9 +1,9 @@
-# Adding Tot!Chat
+# Adding Tot!Custom
 
 <primary-label ref="tutorial"/>
 <secondary-label ref="wip"/>
 <secondary-label ref="totsudo"/>
-<secondary-label ref="totchat"/>
+<secondary-label ref="totcustom"/>
 <secondary-label ref="admin"/>
 <include from="library.md" element-id="wip"/>
 
@@ -11,11 +11,11 @@
 
 ## Recap
 
-## Installing Tot!Chat
+## Installing Tot!Custom
 
 ## Assigning permissions
 
-## Configuring our chat
+## Configuring Tot!Custom
 
 ## Wrap-up
 

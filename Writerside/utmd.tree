@@ -10,7 +10,8 @@
         <toc-element topic="First-time-setup.md"/>
         <toc-element topic="Exploring-the-Admin-Panel.md"/>
         <toc-element topic="Adding-Tot-Chat.md"/>
-        <toc-element topic="Configuring-our-roles.md"/>
+        <toc-element topic="Adding-Tot-Admin.md"/>
+        <toc-element topic="Adding-Tot-Custom.md"/>
         <toc-element topic="Security-practices.md"/>
         <toc-element topic="Compatibility-disclaimer.md"/>
     </toc-element>

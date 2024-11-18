@@ -23,4 +23,8 @@
         <description>Created after removal of "From Scratch" from Unofficial Tot User Guide</description>
         <accepts>From-Scratch.html</accepts>
     </rule>
+    <rule id="63f93c04">
+        <description>Created after removal of "Configuring our roles" from Unofficial Tot User Guide</description>
+        <accepts>Configuring-our-roles.html</accepts>
+    </rule>
 </rules>

@@ -1,4 +1,4 @@
-# Adding Tot!Chat
+# Adding Tot!Admin
 
 <primary-label ref="tutorial"/>
 <secondary-label ref="wip"/>
@@ -11,11 +11,9 @@
 
 ## Recap
 
-## Installing Tot!Chat
+## Installing Tot!Admin
 
 ## Assigning permissions
-
-## Configuring our chat
 
 ## Wrap-up
 
