@@ -15,4 +15,8 @@
         </description>
         <accepts>starter-topic.html</accepts>
     </rule>
+    <rule id="3c12a1f">
+        <description>Created after removal of "Do not use Superadmin" from Unofficial Tot User Guide</description>
+        <accepts>Why-you-shouldn-t-use-Superadmin.html</accepts>
+    </rule>
 </rules>
