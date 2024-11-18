@@ -12,7 +12,7 @@
         </description>
 
         <spotlight>
-            <a href="First-time-setup.md" type="start" summary="Learn how to setup Tot!Sudo step-by-step.">First Time Setup</a>
+            <a href="First-time-setup.md" type="start" summary="Learn how to setup Tot!Sudo and add other Tot mods step-by-step.">Learn from scratch</a>
             <a href="Security-practices.md" type="key" summary="Understand how to maintain a secure configuration.">Security practices</a>
         </spotlight>
 

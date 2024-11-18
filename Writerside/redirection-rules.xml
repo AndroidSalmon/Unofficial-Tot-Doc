@@ -19,4 +19,8 @@
         <description>Created after removal of "Do not use Superadmin" from Unofficial Tot User Guide</description>
         <accepts>Why-you-shouldn-t-use-Superadmin.html</accepts>
     </rule>
+    <rule id="1c563af">
+        <description>Created after removal of "From Scratch" from Unofficial Tot User Guide</description>
+        <accepts>From-Scratch.html</accepts>
+    </rule>
 </rules>

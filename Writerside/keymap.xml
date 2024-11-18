@@ -14,7 +14,7 @@
         </action>
         <action id="$client">
             <description>Sudo Client Panel</description>
-            <shortcut layout="Windows">Ctrl+Shift+U</shortcut>
+            <shortcut layout="Windows">Shift+Alt+U</shortcut>
         </action>
         <action id="$custom">
             <description>Custom Panel</description>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE labels SYSTEM "https://resources.jetbrains.com/writerside/1.0/labels-list.dtd">
+<labels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/labels.xsd">
+    <primary-label id="tutorial" short-name="Tut" name="Tutorial" color="blue">
+        This section is a tutorial.
+    </primary-label>
+    <primary-label id="tot-sudo" short-name="Sudo" name="Tot!Sudo" color="red">
+        This section describes Tot!Sudo functionality.
+    </primary-label>
+    <primary-label id="tot-admin" short-name="Admin" name="Tot!Admin" color="red">
+        This section describes Tot!Admin functionality.
+    </primary-label>
+    <primary-label id="tot-custom" short-name="Custom" name="Tot!Custom" color="red">
+        This section describes Tot!Custom functionality.
+    </primary-label>
+    <primary-label id="tot-chat" short-name="Chat" name="Tot!Chat" color="red">
+        This section describes Tot!Chat functionality.
+    </primary-label>
+
+    <secondary-label id="wip" name="WIP" color="strawberry">Work in progress.</secondary-label>
+    <secondary-label id="admin" name="Administration" color="purple">This section describes features intended for admins.</secondary-label>
+    <secondary-label id="player" name="Player friendly" color="blue">This section describes features that are safe to hand out to players.</secondary-label>
+    <secondary-label id="totsudo" name="Tot!Sudo" color="red">This section describes Tot!Sudo functionality.</secondary-label>
+    <secondary-label id="totadmin" name="Tot!Admin" color="red">This section describes Tot!Admin functionality.</secondary-label>
+    <secondary-label id="totcustom" name="Tot!Custom" color="red">This section describes Tot!Custom functionality.</secondary-label>
+    <secondary-label id="totchat" name="Tot!Chat" color="red">This section describes Tot!Chat functionality.</secondary-label>
+
+</labels>
